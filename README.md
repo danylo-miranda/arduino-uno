@@ -8,6 +8,7 @@ Este projeto tem como objetivo coletar **dados do Arduino via porta serial**, re
 
 ## ⚙️ Estrutura do Projeto
 
+```
 arduino-uno/
 │
 ├── main.py # Script Python para leitura da porta serial e gravação dos dados
@@ -16,7 +17,7 @@ arduino-uno/
 ├── dados_serial.csv # Arquivo gerado com as leituras do Arduino
 └── templates/
 └── dashboard.html # Página web com gráfico interativo (Chart.js)
-
+```
 
 ---
 
