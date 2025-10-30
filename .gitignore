@@ -1,2 +1,3 @@
 arduino/
-
+__pycache__/
+__pycache__/main_api.cpython-312.pyc
