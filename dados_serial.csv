@@ -1,0 +1,241 @@
+timestamp,valor
+2025-10-30 11:03:17,Average analog reading 99.00
+2025-10-30 11:03:17,Thermistor resistance 93333.33
+2025-10-30 11:03:17,Temperature -18.01 *C
+2025-10-30 11:03:17,Temperatura: -180.00 °C
+2025-10-30 11:03:27,Average analog reading 99.00
+2025-10-30 11:03:27,Thermistor resistance 93333.33
+2025-10-30 11:03:27,Temperature -18.01 *C
+2025-10-30 11:03:27,Temperatura: -180.00 °C
+2025-10-30 11:03:37,Average analog reading 97.60
+2025-10-30 11:03:37,Thermistor resistance 94815.58
+2025-10-30 11:03:37,Temperature -18.27 *C
+2025-10-30 11:03:37,Temperatura: -182.00 °C
+2025-10-30 11:03:47,Average analog reading 97.60
+2025-10-30 11:03:47,Thermistor resistance 94815.58
+2025-10-30 11:03:47,Temperature -18.27 *C
+2025-10-30 11:03:47,Temperatura: -182.00 °C
+2025-10-30 11:03:57,Average analog reading 95.40
+2025-10-30 11:03:57,Thermistor resistance 97232.71
+2025-10-30 11:03:57,Temperature -18.69 *C
+2025-10-30 11:03:57,Temperatura: -186.00 °C
+2025-10-30 11:04:07,Average analog reading 94.60
+2025-10-30 11:04:07,Thermistor resistance 98139.53
+2025-10-30 11:04:07,Temperature -18.84 *C
+2025-10-30 11:04:07,Temperatura: -188.00 °C
+2025-10-30 11:04:17,Average analog reading 95.00
+2025-10-30 11:04:17,Thermistor resistance 97684.21
+2025-10-30 11:04:18,Temperature -18.76 *C
+2025-10-30 11:04:18,Temperatura: -187.00 °C
+2025-10-30 11:04:28,Average analog reading 95.40
+2025-10-30 11:04:28,Thermistor resistance 97232.71
+2025-10-30 11:04:28,Temperature -18.69 *C
+2025-10-30 11:04:28,Temperatura: -186.00 °C
+2025-10-30 11:04:38,Average analog reading 96.00
+2025-10-30 11:04:38,Thermistor resistance 96562.50
+2025-10-30 11:04:38,Temperature -18.57 *C
+2025-10-30 11:04:38,Temperatura: -185.00 °C
+2025-10-30 11:04:48,Average analog reading 96.40
+2025-10-30 11:04:48,Thermistor resistance 96120.33
+2025-10-30 11:04:48,Temperature -18.50 *C
+2025-10-30 11:04:48,Temperatura: -184.00 °C
+2025-10-30 11:04:58,Average analog reading 97.00
+2025-10-30 11:04:58,Thermistor resistance 95463.92
+2025-10-30 11:04:58,Temperature -18.39 *C
+2025-10-30 11:04:58,Temperatura: -183.00 °C
+2025-10-30 11:05:08,Average analog reading 96.80
+2025-10-30 11:05:08,Thermistor resistance 95681.82
+2025-10-30 11:05:08,Temperature -18.42 *C
+2025-10-30 11:05:08,Temperatura: -184.00 °C
+2025-10-30 11:05:18,Average analog reading 97.60
+2025-10-30 11:05:18,Thermistor resistance 94815.58
+2025-10-30 11:05:18,Temperature -18.27 *C
+2025-10-30 11:05:18,Temperatura: -182.00 °C
+2025-10-30 11:05:28,Average analog reading 96.00
+2025-10-30 11:05:28,Thermistor resistance 96562.50
+2025-10-30 11:05:28,Temperature -18.57 *C
+2025-10-30 11:05:28,Temperatura: -185.00 °C
+2025-10-30 11:05:38,Average analog reading 97.00
+2025-10-30 11:05:38,Thermistor resistance 95463.92
+2025-10-30 11:05:38,Temperature -18.39 *C
+2025-10-30 11:05:38,Temperatura: -183.00 °C
+2025-10-30 11:05:48,Average analog reading 98.00
+2025-10-30 11:05:48,Thermistor resistance 94387.75
+2025-10-30 11:05:48,Temperature -18.20 *C
+2025-10-30 11:05:48,Temperatura: -181.00 °C
+2025-10-30 11:05:58,Average analog reading 99.00
+2025-10-30 11:05:58,Thermistor resistance 93333.33
+2025-10-30 11:05:59,Temperature -18.01 *C
+2025-10-30 11:05:59,Temperatura: -180.00 °C
+2025-10-30 11:06:09,Average analog reading 97.20
+2025-10-30 11:06:09,Thermistor resistance 95246.92
+2025-10-30 11:06:09,Temperature -18.35 *C
+2025-10-30 11:06:09,Temperatura: -183.00 °C
+2025-10-30 11:06:19,Average analog reading 96.80
+2025-10-30 11:06:19,Thermistor resistance 95681.82
+2025-10-30 11:06:19,Temperature -18.42 *C
+2025-10-30 11:06:19,Temperatura: -184.00 °C
+2025-10-30 11:06:29,Average analog reading 97.00
+2025-10-30 11:06:29,Thermistor resistance 95463.92
+2025-10-30 11:06:29,Temperature -18.39 *C
+2025-10-30 11:06:29,Temperatura: -183.00 °C
+2025-10-30 11:06:39,Average analog reading 96.80
+2025-10-30 11:06:39,Thermistor resistance 95681.82
+2025-10-30 11:06:39,Temperature -18.42 *C
+2025-10-30 11:06:39,Temperatura: -184.00 °C
+2025-10-30 11:06:49,Average analog reading 98.00
+2025-10-30 11:06:49,Thermistor resistance 94387.75
+2025-10-30 11:06:49,Temperature -18.20 *C
+2025-10-30 11:06:49,Temperatura: -181.00 °C
+2025-10-30 11:06:59,Average analog reading 99.00
+2025-10-30 11:06:59,Thermistor resistance 93333.33
+2025-10-30 11:06:59,Temperature -18.01 *C
+2025-10-30 11:06:59,Temperatura: -180.00 °C
+2025-10-30 11:07:09,Average analog reading 99.80
+2025-10-30 11:07:09,Thermistor resistance 92505.01
+2025-10-30 11:07:09,Temperature -17.87 *C
+2025-10-30 11:07:09,Temperatura: -178.00 °C
+2025-10-30 11:07:19,Average analog reading 100.60
+2025-10-30 11:07:19,Thermistor resistance 91689.86
+2025-10-30 11:07:19,Temperature -17.72 *C
+2025-10-30 11:07:19,Temperatura: -177.00 °C
+2025-10-30 11:07:29,Average analog reading 98.00
+2025-10-30 11:07:29,Thermistor resistance 94387.75
+2025-10-30 11:07:29,Temperature -18.20 *C
+2025-10-30 11:07:29,Temperatura: -181.00 °C
+2025-10-30 11:07:39,Average analog reading 99.00
+2025-10-30 11:07:39,Thermistor resistance 93333.33
+2025-10-30 11:07:40,Temperature -18.01 *C
+2025-10-30 11:07:40,Temperatura: -180.00 °C
+2025-10-30 11:07:50,Average analog reading 99.00
+2025-10-30 11:07:50,Thermistor resistance 93333.33
+2025-10-30 11:07:50,Temperature -18.01 *C
+2025-10-30 11:07:50,Temperatura: -180.00 °C
+2025-10-30 11:08:00,Average analog reading 99.60
+2025-10-30 11:08:00,Thermistor resistance 92710.85
+2025-10-30 11:08:00,Temperature -17.90 *C
+2025-10-30 11:08:00,Temperatura: -179.00 °C
+2025-10-30 11:08:10,Average analog reading 97.00
+2025-10-30 11:08:10,Thermistor resistance 95463.92
+2025-10-30 11:08:10,Temperature -18.39 *C
+2025-10-30 11:08:10,Temperatura: -183.00 °C
+2025-10-30 11:08:20,Average analog reading 98.80
+2025-10-30 11:08:20,Thermistor resistance 93542.51
+2025-10-30 11:08:20,Temperature -18.05 *C
+2025-10-30 11:08:20,Temperatura: -180.00 °C
+2025-10-30 11:08:30,Average analog reading 100.00
+2025-10-30 11:08:30,Thermistor resistance 92300.00
+2025-10-30 11:08:30,Temperature -17.83 *C
+2025-10-30 11:08:30,Temperatura: -178.00 °C
+2025-10-30 11:08:40,Average analog reading 100.20
+2025-10-30 11:08:40,Thermistor resistance 92095.82
+2025-10-30 11:08:40,Temperature -17.79 *C
+2025-10-30 11:08:40,Temperatura: -177.00 °C
+2025-10-30 11:08:50,Average analog reading 101.00
+2025-10-30 11:08:50,Thermistor resistance 91287.13
+2025-10-30 11:08:50,Temperature -17.65 *C
+2025-10-30 11:08:50,Temperatura: -176.00 °C
+2025-10-30 11:09:00,Average analog reading 101.00
+2025-10-30 11:09:00,Thermistor resistance 91287.13
+2025-10-30 11:09:00,Temperature -17.65 *C
+2025-10-30 11:09:00,Temperatura: -176.00 °C
+2025-10-30 11:09:10,Average analog reading 100.00
+2025-10-30 11:09:10,Thermistor resistance 92300.00
+2025-10-30 11:09:10,Temperature -17.83 *C
+2025-10-30 11:09:10,Temperatura: -178.00 °C
+2025-10-30 11:09:20,Average analog reading 98.00
+2025-10-30 11:09:21,Thermistor resistance 94387.75
+2025-10-30 11:09:21,Temperature -18.20 *C
+2025-10-30 11:09:21,Temperatura: -181.00 °C
+2025-10-30 11:09:31,Average analog reading 96.00
+2025-10-30 11:09:31,Thermistor resistance 96562.50
+2025-10-30 11:09:31,Temperature -18.57 *C
+2025-10-30 11:09:31,Temperatura: -185.00 °C
+2025-10-30 11:09:41,Average analog reading 96.60
+2025-10-30 11:09:41,Thermistor resistance 95900.63
+2025-10-30 11:09:41,Temperature -18.46 *C
+2025-10-30 11:09:41,Temperatura: -184.00 °C
+2025-10-30 11:09:51,Average analog reading 97.60
+2025-10-30 11:09:51,Thermistor resistance 94815.58
+2025-10-30 11:09:51,Temperature -18.27 *C
+2025-10-30 11:09:51,Temperatura: -182.00 °C
+2025-10-30 11:10:01,Average analog reading 98.00
+2025-10-30 11:10:01,Thermistor resistance 94387.75
+2025-10-30 11:10:01,Temperature -18.20 *C
+2025-10-30 11:10:01,Temperatura: -181.00 °C
+2025-10-30 11:10:11,Average analog reading 98.40
+2025-10-30 11:10:11,Thermistor resistance 93963.42
+2025-10-30 11:10:11,Temperature -18.13 *C
+2025-10-30 11:10:11,Temperatura: -181.00 °C
+2025-10-30 11:10:21,Average analog reading 98.20
+2025-10-30 11:10:21,Thermistor resistance 94175.16
+2025-10-30 11:10:21,Temperature -18.16 *C
+2025-10-30 11:10:21,Temperatura: -181.00 °C
+2025-10-30 11:10:31,Average analog reading 98.00
+2025-10-30 11:10:31,Thermistor resistance 94387.75
+2025-10-30 11:10:31,Temperature -18.20 *C
+2025-10-30 11:10:31,Temperatura: -181.00 °C
+2025-10-30 11:10:41,Average analog reading 98.40
+2025-10-30 11:10:41,Thermistor resistance 93963.42
+2025-10-30 11:10:41,Temperature -18.13 *C
+2025-10-30 11:10:41,Temperatura: -181.00 °C
+2025-10-30 11:10:51,Average analog reading 99.20
+2025-10-30 11:10:51,Thermistor resistance 93125.00
+2025-10-30 11:10:51,Temperature -17.98 *C
+2025-10-30 11:10:51,Temperatura: -179.00 °C
+2025-10-30 11:11:02,Average analog reading 100.00
+2025-10-30 11:11:02,Thermistor resistance 92300.00
+2025-10-30 11:11:02,Temperature -17.83 *C
+2025-10-30 11:11:02,Temperatura: -178.00 °C
+2025-10-30 11:11:12,Average analog reading 99.00
+2025-10-30 11:11:12,Thermistor resistance 93333.33
+2025-10-30 11:11:12,Temperature -18.01 *C
+2025-10-30 11:11:12,Temperatura: -180.00 °C
+2025-10-30 11:11:22,Average analog reading 97.80
+2025-10-30 11:11:22,Thermistor resistance 94601.22
+2025-10-30 11:11:22,Temperature -18.24 *C
+2025-10-30 11:11:22,Temperatura: -182.00 °C
+2025-10-30 11:11:32,Average analog reading 98.20
+2025-10-30 11:11:32,Thermistor resistance 94175.16
+2025-10-30 11:11:32,Temperature -18.16 *C
+2025-10-30 11:11:32,Temperatura: -181.00 °C
+2025-10-30 11:11:42,Average analog reading 98.00
+2025-10-30 11:11:42,Thermistor resistance 94387.75
+2025-10-30 11:11:42,Temperature -18.20 *C
+2025-10-30 11:11:42,Temperatura: -181.00 °C
+2025-10-30 11:11:52,Average analog reading 99.00
+2025-10-30 11:11:52,Thermistor resistance 93333.33
+2025-10-30 11:11:52,Temperature -18.01 *C
+2025-10-30 11:11:52,Temperatura: -180.00 °C
+2025-10-30 11:12:02,Average analog reading 98.00
+2025-10-30 11:12:02,Thermistor resistance 94387.75
+2025-10-30 11:12:02,Temperature -18.20 *C
+2025-10-30 11:12:02,Temperatura: -181.00 °C
+2025-10-30 11:12:12,Average analog reading 98.20
+2025-10-30 11:12:12,Thermistor resistance 94175.16
+2025-10-30 11:12:12,Temperature -18.16 *C
+2025-10-30 11:12:12,Temperatura: -181.00 °C
+2025-10-30 11:12:22,Average analog reading 99.00
+2025-10-30 11:12:22,Thermistor resistance 93333.33
+2025-10-30 11:12:22,Temperature -18.01 *C
+2025-10-30 11:12:22,Temperatura: -180.00 °C
+2025-10-30 11:12:32,Average analog reading 99.00
+2025-10-30 11:12:32,Thermistor resistance 93333.33
+2025-10-30 11:12:32,Temperature -18.01 *C
+2025-10-30 11:12:32,Temperatura: -180.00 °C
+2025-10-30 11:12:43,Average analog reading 99.00
+2025-10-30 11:12:43,Thermistor resistance 93333.33
+2025-10-30 11:12:43,Temperature -18.01 *C
+2025-10-30 11:12:43,Temperatura: -180.00 °C
+2025-10-30 11:12:53,Average analog reading 99.00
+2025-10-30 11:12:53,Thermistor resistance 93333.33
+2025-10-30 11:12:53,Temperature -18.01 *C
+2025-10-30 11:12:53,Temperatura: -180.00 °C
+2025-10-30 11:13:03,Average analog reading 100.00
+2025-10-30 11:13:03,Thermistor resistance 92300.00
+2025-10-30 11:13:03,Temperature -17.83 *C
+2025-10-30 11:13:03,Temperatura: -178.00 °C
+2025-10-30 11:13:13,Average analog reading 99.00
+2025-10-30 11:13:13,Thermistor resistance 93333.33
+2025-10-30 11:13:13,Temperature -18.01 *C
+2025-10-30 11:13:13,Temperatura: -180.00 °C
