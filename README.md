@@ -160,10 +160,9 @@ Envio de alertas (e-mail ou Telegram)
 
 Armazenamento em nuvem (Google Sheets, Firebase, etc.)
 
-### 👨‍💻 Autores
+### 👨‍💻 Autor
 
 Danylo Miranda
-Misael Rodrigues
 
 Franca, 30 de Outubro de 2025
 
